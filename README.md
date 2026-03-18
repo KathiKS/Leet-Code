@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KathiKS/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,9 +23,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
