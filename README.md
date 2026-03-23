@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KathiKS/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/KathiKS/Leet-Code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KathiKS/Leet-Code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KathiKS/Leet-Code/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/KathiKS/Leet-Code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
