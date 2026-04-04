@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KathiKS/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1472-design-browser-history](https://github.com/KathiKS/Leet-Code/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KathiKS/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KathiKS/Leet-Code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KathiKS/Leet-Code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
