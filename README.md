@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KathiKS/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/KathiKS/Leet-Code/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KathiKS/Leet-Code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KathiKS/Leet-Code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KathiKS/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KathiKS/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KathiKS/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Simulation
