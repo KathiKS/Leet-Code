@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KathiKS/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/KathiKS/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/KathiKS/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KathiKS/Leet-Code/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/KathiKS/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
@@ -152,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KathiKS/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/KathiKS/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KathiKS/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
