@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/KathiKS/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0125-valid-palindrome](https://github.com/KathiKS/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/KathiKS/Leet-Code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/KathiKS/Leet-Code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/KathiKS/Leet-Code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/KathiKS/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
