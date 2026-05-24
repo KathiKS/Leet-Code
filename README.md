@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/KathiKS/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/KathiKS/Leet-Code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/KathiKS/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/KathiKS/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/KathiKS/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/KathiKS/Leet-Code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KathiKS/Leet-Code/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KathiKS/Leet-Code/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KathiKS/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/KathiKS/Leet-Code/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KathiKS/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/KathiKS/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KathiKS/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,5 +201,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KathiKS/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
