@@ -1,16 +1,17 @@
 class Solution {
     public int sumNumbers(TreeNode root) {
-        return dfs(root, 0);
+        return helper(root,0);
     }
-    private int dfs(TreeNode node, int pathSum) {
-        if (node == null)
+    int helper(TreeNode node,int sum){
+        if(node==null){
             return 0;
-        
-        pathSum = pathSum * 10 + node.val;
-        
-        if (node.left == null && node.right == null)
-            return pathSum;
-        
-        return dfs(node.left, pathSum) + dfs(node.right, pathSum);
+        }
+        sum = sum*10+node.val;
+
+        if(node.right==null && node.left == null){
+            return sum;
+        }
+
+        return helper(node.left,sum) + helper(node.right,sum);
     }
 }
