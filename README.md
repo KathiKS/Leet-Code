@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/KathiKS/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/KathiKS/Leet-Code/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/KathiKS/Leet-Code/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KathiKS/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/KathiKS/Leet-Code/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/KathiKS/Leet-Code/tree/main/0046-permutations/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
