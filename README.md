@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/KathiKS/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KathiKS/Leet-Code/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/KathiKS/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
+| [0748-shortest-completing-word](https://github.com/KathiKS/Leet-Code/tree/main/0748-shortest-completing-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/KathiKS/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/KathiKS/Leet-Code/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/KathiKS/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
+| [0748-shortest-completing-word](https://github.com/KathiKS/Leet-Code/tree/main/0748-shortest-completing-word/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KathiKS/Leet-Code/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/KathiKS/Leet-Code/tree/main/1046-last-stone-weight/) | Easy |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/KathiKS/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KathiKS/Leet-Code/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0748-shortest-completing-word](https://github.com/KathiKS/Leet-Code/tree/main/0748-shortest-completing-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
