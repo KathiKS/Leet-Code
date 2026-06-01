@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/KathiKS/Leet-Code/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/KathiKS/Leet-Code/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/KathiKS/Leet-Code/tree/main/0067-add-binary/) | Easy |
+| [0091-decode-ways](https://github.com/KathiKS/Leet-Code/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/KathiKS/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KathiKS/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/KathiKS/Leet-Code/tree/main/0062-unique-paths/) | Medium |
+| [0091-decode-ways](https://github.com/KathiKS/Leet-Code/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KathiKS/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KathiKS/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/KathiKS/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
