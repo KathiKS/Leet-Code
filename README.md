@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KathiKS/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KathiKS/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/KathiKS/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KathiKS/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/KathiKS/Leet-Code/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/KathiKS/Leet-Code/tree/main/1472-design-browser-history/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KathiKS/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KathiKS/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KathiKS/Leet-Code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Math
@@ -341,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/KathiKS/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KathiKS/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
