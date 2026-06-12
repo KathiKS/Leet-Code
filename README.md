@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/KathiKS/Leet-Code/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/KathiKS/Leet-Code/tree/main/0176-second-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0180-consecutive-numbers/) | Medium |
 | [0626-exchange-seats](https://github.com/KathiKS/Leet-Code/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
