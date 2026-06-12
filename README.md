@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/KathiKS/Leet-Code/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/KathiKS/Leet-Code/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/KathiKS/Leet-Code/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/KathiKS/Leet-Code/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/KathiKS/Leet-Code/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/KathiKS/Leet-Code/tree/main/0626-exchange-seats/) | Medium |
