@@ -374,5 +374,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/KathiKS/Leet-Code/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/KathiKS/Leet-Code/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/KathiKS/Leet-Code/tree/main/0626-exchange-seats/) | Medium |
+| [1148-article-views-i](https://github.com/KathiKS/Leet-Code/tree/main/1148-article-views-i/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
