@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/KathiKS/Leet-Code/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/KathiKS/Leet-Code/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/KathiKS/Leet-Code/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/KathiKS/Leet-Code/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/KathiKS/Leet-Code/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/KathiKS/Leet-Code/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/KathiKS/Leet-Code/tree/main/1148-article-views-i/) | Easy |
