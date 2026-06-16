@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0607-sales-person](https://github.com/KathiKS/Leet-Code/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/KathiKS/Leet-Code/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/KathiKS/Leet-Code/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/KathiKS/Leet-Code/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/KathiKS/Leet-Code/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/KathiKS/Leet-Code/tree/main/1148-article-views-i/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
