@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/KathiKS/Leet-Code/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/KathiKS/Leet-Code/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/KathiKS/Leet-Code/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/KathiKS/Leet-Code/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1148-article-views-i](https://github.com/KathiKS/Leet-Code/tree/main/1148-article-views-i/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
