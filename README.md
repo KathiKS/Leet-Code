@@ -396,5 +396,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1164-product-price-at-a-given-date](https://github.com/KathiKS/Leet-Code/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/KathiKS/Leet-Code/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/KathiKS/Leet-Code/tree/main/1179-reformat-department-table/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/KathiKS/Leet-Code/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
