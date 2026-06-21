@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0627-swap-sex-of-employees](https://github.com/KathiKS/Leet-Code/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/KathiKS/Leet-Code/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KathiKS/Leet-Code/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/KathiKS/Leet-Code/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/KathiKS/Leet-Code/tree/main/1148-article-views-i/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
