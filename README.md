@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/KathiKS/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KathiKS/Leet-Code/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/KathiKS/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
+| [0686-repeated-string-match](https://github.com/KathiKS/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 | [0748-shortest-completing-word](https://github.com/KathiKS/Leet-Code/tree/main/0748-shortest-completing-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KathiKS/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/KathiKS/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
