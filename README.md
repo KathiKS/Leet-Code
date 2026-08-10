@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/KathiKS/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/KathiKS/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KathiKS/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/KathiKS/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/KathiKS/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,4 +411,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/KathiKS/Leet-Code/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KathiKS/Leet-Code/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KathiKS/Leet-Code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
