@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KathiKS/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KathiKS/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KathiKS/Leet-Code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/KathiKS/Leet-Code/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/KathiKS/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
+| [3875-construct-uniform-parity-array-i](https://github.com/KathiKS/Leet-Code/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
