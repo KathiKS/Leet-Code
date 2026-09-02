@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/KathiKS/Leet-Code/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KathiKS/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/KathiKS/Leet-Code/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/KathiKS/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KathiKS/Leet-Code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
