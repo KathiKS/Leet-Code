@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/KathiKS/Leet-Code/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/KathiKS/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/KathiKS/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KathiKS/Leet-Code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/KathiKS/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/KathiKS/Leet-Code/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/KathiKS/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/KathiKS/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KathiKS/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/KathiKS/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/KathiKS/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/KathiKS/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KathiKS/Leet-Code/tree/main/0141-linked-list-cycle/) | Easy |
