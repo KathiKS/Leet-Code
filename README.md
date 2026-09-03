@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KathiKS/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KathiKS/Leet-Code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/KathiKS/Leet-Code/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KathiKS/Leet-Code/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/KathiKS/Leet-Code/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KathiKS/Leet-Code/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
