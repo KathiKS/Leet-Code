@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/KathiKS/Leet-Code/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KathiKS/Leet-Code/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/KathiKS/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/KathiKS/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0205-isomorphic-strings](https://github.com/KathiKS/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KathiKS/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KathiKS/Leet-Code/tree/main/0344-reverse-string/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/KathiKS/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/KathiKS/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
+| [0127-word-ladder](https://github.com/KathiKS/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/KathiKS/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KathiKS/Leet-Code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KathiKS/Leet-Code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/KathiKS/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/KathiKS/Leet-Code/tree/main/0207-course-schedule/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -480,4 +483,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/KathiKS/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/KathiKS/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
