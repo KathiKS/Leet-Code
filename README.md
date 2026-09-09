@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/KathiKS/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1510-stone-game-iv](https://github.com/KathiKS/Leet-Code/tree/main/1510-stone-game-iv/) | Hard |
+| [3871-count-commas-in-range-ii](https://github.com/KathiKS/Leet-Code/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/KathiKS/Leet-Code/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KathiKS/Leet-Code/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Stack
