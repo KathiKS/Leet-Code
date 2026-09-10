@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/KathiKS/Leet-Code/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KathiKS/Leet-Code/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KathiKS/Leet-Code/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KathiKS/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,12 +362,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KathiKS/Leet-Code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KathiKS/Leet-Code/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KathiKS/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KathiKS/Leet-Code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KathiKS/Leet-Code/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KathiKS/Leet-Code/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
