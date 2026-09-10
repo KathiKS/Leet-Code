@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KathiKS/Leet-Code/tree/main/0100-same-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0207-course-schedule](https://github.com/KathiKS/Leet-Code/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KathiKS/Leet-Code/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KathiKS/Leet-Code/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KathiKS/Leet-Code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KathiKS/Leet-Code/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KathiKS/Leet-Code/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KathiKS/Leet-Code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KathiKS/Leet-Code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KathiKS/Leet-Code/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -375,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/KathiKS/Leet-Code/tree/main/0100-same-tree/) | Easy |
 | [0127-word-ladder](https://github.com/KathiKS/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/KathiKS/Leet-Code/tree/main/0207-course-schedule/) | Medium |
 ## Graph Theory
