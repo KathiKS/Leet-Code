@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/KathiKS/Leet-Code/tree/main/0649-dota2-senate/) | Medium |
 | [0686-repeated-string-match](https://github.com/KathiKS/Leet-Code/tree/main/0686-repeated-string-match/) | Medium |
 | [0748-shortest-completing-word](https://github.com/KathiKS/Leet-Code/tree/main/0748-shortest-completing-word/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KathiKS/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KathiKS/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KathiKS/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KathiKS/Leet-Code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KathiKS/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/KathiKS/Leet-Code/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KathiKS/Leet-Code/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Math
