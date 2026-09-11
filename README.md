@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KathiKS/Leet-Code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KathiKS/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/KathiKS/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/KathiKS/Leet-Code/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/KathiKS/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/KathiKS/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/KathiKS/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/KathiKS/Leet-Code/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KathiKS/Leet-Code/tree/main/0064-minimum-path-sum/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KathiKS/Leet-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/KathiKS/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/KathiKS/Leet-Code/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/KathiKS/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/KathiKS/Leet-Code/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/KathiKS/Leet-Code/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/KathiKS/Leet-Code/tree/main/0053-maximum-subarray/) | Medium |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/KathiKS/Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/KathiKS/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/KathiKS/Leet-Code/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/KathiKS/Leet-Code/tree/main/0155-min-stack/) | Medium |
@@ -316,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/KathiKS/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/KathiKS/Leet-Code/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KathiKS/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 ## Binary Search
