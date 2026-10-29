@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/KathiKS/Leet-Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/KathiKS/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/KathiKS/Leet-Code/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/KathiKS/Leet-Code/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/KathiKS/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KathiKS/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/KathiKS/Leet-Code/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/KathiKS/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/KathiKS/Leet-Code/tree/main/0078-subsets/) | Medium |
 ## String Matching
